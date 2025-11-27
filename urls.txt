@@ -1,0 +1,9 @@
+# No Black Friday - Company URLs
+# Add one URL per line. 
+# Example:
+# https://example.com
+https://whatscook.app
+https://photoroute.app
+https://getpacky.app
+https://samay.ch
+https://simpleanalytics.com
