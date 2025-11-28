@@ -1,11 +1,11 @@
 # No Black Friday - Company URLs
 # Add one URL per line.
 # Example:
-# https://example.com
-https://whatscook.app
-https://photoroute.app
-https://getpacky.app
-https://samay.ch
-https://stop-it.app
-https://www.simpleanalytics.com
-https://thursdayboots.com
+# https://example.com | Category
+https://whatscook.app  | App
+https://photoroute.app | App
+https://getpacky.app | App
+https://samay.ch | App
+https://stop-it.app | App
+https://www.simpleanalytics.com | SaaS
+https://thursdayboots.com | Fashion
