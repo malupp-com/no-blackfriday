@@ -2,6 +2,8 @@
 # Add one URL per line.
 # Example:
 # https://example.com | Category
+https://aruno.abtz.co | SaaS
+https://cyanstats.com | SaaS
 https://whatscook.app  | App
 https://photoroute.app | App
 https://getpacky.app | App
